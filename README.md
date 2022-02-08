@@ -2,7 +2,7 @@
 - 👀 I’m interested in space
 - 🌱 I’m currently learning rocket autonomous landing system
 - 💞️ I’m looking to collaborate on rocket
-- 📫 How to reach me on instagram with @mitaskin
+- 📫 reach me on instagram with @mitaskin
 
 
 
