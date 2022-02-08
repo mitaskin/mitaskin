@@ -22,3 +22,9 @@ console.log(squared(2.23606797749983))
 let squared1 = x => x * x
 
 console.log(squared1(2.2))
+
+let sayName = function(name){
+    return `Merhaba ${name} adlı gri adam`
+}
+
+console.log(sayName('ikbal'))
